@@ -29,4 +29,4 @@ Works beautifully on **mobile, tablet, and web**.
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/tic-tac-toe-react-native.git](https://github.com/NaurinKhan7/tic-tac-toe-game.git
+git clone 
