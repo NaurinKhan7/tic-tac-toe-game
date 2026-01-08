@@ -41,8 +41,8 @@ export default function AnimatedCell({ children }: Props) {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,                 // ✅ fill the cell
-    justifyContent: "center",// ✅ vertical center
-    alignItems: "center",    // ✅ horizontal center
+    flex: 1,                 
+    justifyContent: "center",
+    alignItems: "center",  
   },
 });
