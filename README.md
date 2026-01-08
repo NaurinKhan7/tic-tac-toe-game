@@ -29,4 +29,4 @@ Works beautifully on **mobile, tablet, and web**.
 
 ### 1. Clone the repo
 ```bash
-git clone 
+git clone https://github.com/NaurinKhan7/tic-tac-toe-game.git
